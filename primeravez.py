@@ -13,3 +13,10 @@ class Sonido():
         pass
     def fourier(self):
         pass
+class Fiesta():
+    def musica(self):
+        pass
+    def Raza(self):
+        pass
+    def bebidas(self):
+        pass
